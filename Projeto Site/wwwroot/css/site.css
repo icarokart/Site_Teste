@@ -1,0 +1,35 @@
+﻿body {
+    background-color: rgb(42, 40, 117);
+}
+
+#mainMenuDiv {
+    position: fixed;
+    height: 5%;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    background-color: rgb(56, 59, 255);
+}
+
+.nav-item:hover {
+    /* background-color: rgba(74, 73, 87, 0.205);*/
+    transition-duration: 0.7s;
+    transform: scale(1.2);
+}
+
+.gestaoQualidata:hover {
+    background-color: rgba(17, 0, 255, 0.438);
+}
+
+.btn {
+    background-color: rgb(56, 59, 255);
+}
+
+#container {
+    position: fixed;
+    width: 80%;
+    height: 90%;
+    top: 15%;
+    left: 10%;
+    background-color: rgba(255, 255, 255, 0.699);
+}

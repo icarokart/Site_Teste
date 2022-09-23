@@ -1,0 +1,130 @@
+﻿@page
+@model Projeto_Site.Views.Home.qbiblioModel
+@{
+}
+
+
+<div class="container">
+    <div class="container">
+        <br />
+        <div class="col-3">
+            <img src="~/images/nomeQualiSemFundo.png" class="img-fluid" />
+        </div>
+        <div class="row" id="container">
+            <div class="col-6 text-justify">
+                <br />
+                <h2>QBiblio</h2>
+                <br />
+                O <b>Q-Biblio</b> gerencia o acervo de livros, fitas, CDs e periódicos, as reservas, os empréstimos e devoluções, as baixas temporárias e definitivas, o inventário do acervo, 
+                permitindo consultas e relatórios gerenciais diversos como: ranking de livros mais lidos, áreas mais consultadas, histórico
+                por obra, por aluno, entre outros.
+                <br />
+                Através da Internet é possível a consulta ao acervo e a solicitação de reservas.
+                <br />
+                Quando integrado ao <b>Q-Acadêmico</b>, implementa funcionalidades ao cadastro do aluno, procedimentos de rematrícula e novos recursos na Internet.
+            </div>
+            <div class="col-6">
+                <div class="col-12">
+                    <div>
+                        <img src="~/images/biblio2.JPG" class="img-fluid" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <br />
+        @*<div class="col-3">
+                <img src="~/images/nomeQualiSemFundo.png" class="img-fluid" />
+            </div>*@
+        <div class="row" id="container">
+            <div class="col-6 text-justify">
+                <br />
+                <h2>Principais Funcionalidades:</h2>
+                <br />
+
+                <h6>Acervo</h6>
+                <ul>
+                    <li>Cadastro de todo acervo de livros, fitas, periódicos, Normas Técnicas e CD-Roms da biblioteca, com etiquetas de código de barras, facilitando o empréstimo e devolução dos mesmos</li>
+                </ul>
+                <br />
+
+                <h6>Empréstimos</h6>
+                <ul>
+                    <li>Gerencia os empréstimos com emissão de comprovantes</li>
+                    <li>Determina a data de devolução prevista de acordo com o tipo de exemplar e o tipo de usuário</li>
+                    <li>Interage com o calendário acadêmico para determinar a data de devolução prevista baseado em dias úteis</li>
+                    <li>Controla limite de empréstimos por tipo de usuário</li>
+                    <li>Pode restringir empréstimos para usuários com multa acumulada acima do limite determinado para o tipo de usuário</li>
+                    <li>Pode ser integrado a sistemas anti-furtos</li>
+                </ul>
+                <br />
+
+                <h6>Devoluções</h6>
+                <ul>
+                    <li>Gerencia as devoluções dos exemplares com emissão de comprovantes</li>
+                    <li>Calcula automaticamente multas a serem cobradas</li>
+                    <li>Avisa ao usuário a existência de reserva pendente para a obra que está sendo devolvida</li>
+                </ul>
+                <br />
+
+                <h6>Reservas</h6>
+                <ul>
+                    <li>Gerencia as reservas por obra</li>
+                    <li>A solicitação pode ser feita pela WEB</li>
+                    <li>O sistema emite e-mail notificando o usuário que o exemplar já está separado no setor de reserva</li>
+                    <li>Permite configurar o prazo que o exemplar pode ficar no setor de reserva a espera do usuário antes que a reserva expire</li>
+                </ul>
+                <br />
+
+                <h6>Inventário</h6>
+                <ul>
+                    <li>Permite fazer inventário através de relatórios emitidos ou através de uma aplicação coletora de informação baseada em leitores óticos</li>
+                    <li>Gerencia as baixas em relação aos inventários anteriores</li>
+                </ul>
+                <br />
+
+                <h6>Aquisição</h6>
+                <ul>
+                    <li>Permite controlar a aquisição dos exemplares de maneira simples, com impressão imediata das etiquetas de identificação</li>
+                    <li>Permite consultas e relatórios a respeito das datas de compra, notas fiscais e fornecedores</li>
+                </ul>
+                <br />
+
+                <h6>Baixas e Descartes</h6>
+                <ul>
+                    <li>O sistema permite identificar os exemplares que não vem sendo usados</li>
+                    <li>O sistema marca os exemplares que forem doados, perdidos ou descartados por estarem desatualizados para que fiquem indisponíveis no sistema</li>
+                </ul>
+                <br />
+
+                <h6>Estatísticas</h6>
+                <ul>
+                    <li>Emite relatórios estatísticos a respeito do acervo, podendo ser indexado por assuntos, Áreas do Conhecimento e CDD</li>
+                    <li>Emite relatórios estatísticos a respeito dos empréstimos, podendo ser indexado por assuntos, Áreas do Conhecimento, CDD e Curso</li>
+                </ul>
+                <br />
+
+                <h6>Relatórios Diversos</h6>
+                <ul>
+                    <li>Emite relatórios gerenciais a respeito dos empréstimos</li>
+                    <li>Emite relatórios a respeito das multas dos usuários</li>
+                    <li>Emite relatórios a respeito das baixas do sistema</li>
+                </ul>
+                <br />
+            </div>
+            @*<div class="col-6">
+                    <div class="col-12">
+                        <div>
+                            <img src="~/images/sel1.JPG" class="img-fluid" />
+                        </div>
+                    </div>
+                </div>*@
+        </div>
+        <br />
+    </div>
+
+
+</div>
+

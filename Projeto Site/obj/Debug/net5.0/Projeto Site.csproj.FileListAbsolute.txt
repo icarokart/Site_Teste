@@ -1,0 +1,127 @@
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\bin\Debug\net5.0\appsettings.json
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.exe
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.deps.json
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.runtimeconfig.json
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.runtimeconfig.dev.json
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.dll
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\bin\Debug\net5.0\ref\Projeto Site.dll
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.pdb
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.Views.dll
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.Views.pdb
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.csproj.AssemblyReference.cache
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.AssemblyInfoInputs.cache
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.AssemblyInfo.cs
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.csproj.CoreCompileInputs.cache
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorAssemblyInfo.cache
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorAssemblyInfo.cs
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\staticwebassets\Projeto Site.StaticWebAssets.Manifest.cache
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\staticwebassets\Projeto Site.StaticWebAssets.xml
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\scopedcss\bundle\Projeto Site.styles.css
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.TagHelpers.input.cache
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.TagHelpers.output.cache
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorCoreGenerate.cache
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorTargetAssemblyInfo.cache
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorTargetAssemblyInfo.cs
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.Views.pdb
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.dll
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\ref\Projeto Site.dll
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.pdb
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.genruntimeconfig.cache
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.csproj.CopyComplete
+C:\Users\Icaro\source\repos\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\qacademico.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\bin\Debug\net5.0\appsettings.json
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.StaticWebAssets.xml
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.exe
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.deps.json
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.runtimeconfig.json
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.runtimeconfig.dev.json
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.dll
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.pdb
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.Views.dll
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\bin\Debug\net5.0\Projeto Site.Views.pdb
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.csproj.AssemblyReference.cache
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.AssemblyInfoInputs.cache
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.AssemblyInfo.cs
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.csproj.CoreCompileInputs.cache
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorAssemblyInfo.cache
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorAssemblyInfo.cs
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\scopedcss\bundle\Projeto Site.styles.css
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\staticwebassets\Projeto Site.StaticWebAssets.Manifest.cache
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.TagHelpers.input.cache
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.TagHelpers.output.cache
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorCoreGenerate.cache
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\qacademico.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorTargetAssemblyInfo.cache
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorTargetAssemblyInfo.cs
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.Views.pdb
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.dll
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\refint\Projeto Site.dll
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.pdb
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.genruntimeconfig.cache
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\ref\Projeto Site.dll
+C:\Users\Icaro\Desktop\Projeto Site\Projeto Site\obj\Debug\net5.0\Projeto Site.csproj.CopyComplete
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\bin\Debug\net5.0\appsettings.json
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\bin\Debug\net5.0\Projeto Site.exe
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\bin\Debug\net5.0\Projeto Site.deps.json
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\bin\Debug\net5.0\Projeto Site.runtimeconfig.json
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\bin\Debug\net5.0\Projeto Site.runtimeconfig.dev.json
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\bin\Debug\net5.0\Projeto Site.dll
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\bin\Debug\net5.0\Projeto Site.pdb
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\bin\Debug\net5.0\Projeto Site.Views.dll
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\bin\Debug\net5.0\Projeto Site.Views.pdb
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.csproj.AssemblyReference.cache
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.AssemblyInfoInputs.cache
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.AssemblyInfo.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.csproj.CoreCompileInputs.cache
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorAssemblyInfo.cache
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorAssemblyInfo.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\staticwebassets\Projeto Site.StaticWebAssets.Manifest.cache
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\scopedcss\bundle\Projeto Site.styles.css
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.TagHelpers.input.cache
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.TagHelpers.output.cache
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorCoreGenerate.cache
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\qacademico.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorTargetAssemblyInfo.cache
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.RazorTargetAssemblyInfo.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.Views.pdb
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.dll
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\ref\Projeto Site.dll
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.pdb
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.genruntimeconfig.cache
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Projeto Site.csproj.CopyComplete
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\qbiblio.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\qcartorio.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\qjuridico.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\Razor\Views\Home\qselecao.cshtml.g.cs
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\bin\Debug\net5.0\ref\Projeto Site.dll
+C:\Users\Icaro\Desktop\Projeto Site2\Projeto Site\obj\Debug\net5.0\staticwebassets\Projeto Site.StaticWebAssets.xml
